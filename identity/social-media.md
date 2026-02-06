@@ -12,31 +12,6 @@ Der Prozessor × Die Störung
 🏭 New single: SLOPMASCHINE
 ```
 
-**Alternative Bio Options (Not Used):**
-
-**Verbose:**
-```
-DOTPRODUKT
-EBM/Futurepop duo exploring temporal displacement
-Formed 1989-1991 | Processing 2025
-🏭 Flagship single: SLOPMASCHINE
-```
-
-**Minimal:**
-```
-DOTPRODUKT
-Order meets chaos. Precision meets entropy.
-🏭 SLOPMASCHINE
-```
-
-**Meta:**
-```
-DOTPRODUKT
-AI band making music about AI slop
-Deadpan baritone + melodic chaos
-🏭 SLOPMASCHINE OUT NOW
-```
-
 ---
 
 ## Profile Picture
@@ -45,16 +20,6 @@ Deadpan baritone + melodic chaos
 
 **Description:**
 D·P monogram - bold geometric letters with dot product symbol (·) in the center, featuring connection nodes. White on dark industrial background with blue accent line.
-
-**Why This Works:**
-- Distinctive and unique (not generic)
-- Clever concept: D · P = "Dot Produkt" with literal dot product symbol
-- Readable at any size (bold geometric shapes)
-- Perfect for circular Instagram crop
-- Professional and memorable
-- Industrial/technical aesthetic (very EBM/Kraftwerk)
-- Blue accent ties to brand color palette
-- Mathematical precision (Der Prozessor) meets connection networks (Die Störung)
 
 **Technical Specs:**
 - Format: Square PNG
