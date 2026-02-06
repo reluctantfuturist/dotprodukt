@@ -361,9 +361,18 @@ Before generating tracks:
 
 ## Notes
 
-- Both tracks fit the 1989-1991 temporal concept perfectly:
+- All tracks fit the 1989-1991 temporal concept perfectly:
   - Shannon's influence peaked in computing (1980s-90s)
   - Lem writing through Cold War, died 2006 (just pre-AI boom)
+  - Alignment discourse exploded 2010s-2020s (after our formation)
+  - Processing all of it through late Cold War consciousness
+
+- **Aesthetic touchstone:** "Gwern.net found a Korg synthesizer"
+  - Technical depth meets electronic production
+  - Hypertext essays → EBM tracks
+  - Footnotes in the bassline, hyperlinks as arpeggios
+  - Serious execution, no irony poisoning
+  - Cold precision, warm despair, recursive self-reference
   - Both died before current AI era, but predicted it
 - Perfect for "consciousnesses formed in late Cold War processing 2026"
 - Shannon = optimistic foundation
