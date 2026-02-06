@@ -39,36 +39,28 @@ Der Prozessor × Die Störung
 
 ---
 
-## Profile Picture Strategy
+## Profile Picture
 
-### DON'T Use the Full Band Promo:
-The square promo image (`dotprodukt_promoshot_1.png`) is:
-- Too detailed for small circular crop
-- Text would be illegible at profile pic size
-- Both characters would be too small to see clearly
+**Final Choice:** `dotprodukt_profile_pic.png`
 
-### DO Use One of These:
+**Description:**
+D·P monogram - bold geometric letters with dot product symbol (·) in the center, featuring connection nodes. White on dark industrial background with blue accent line.
 
-**Option 1: Logo/Text Only** (Recommended)
-Create a simple graphic:
-- Just "DOTPRODUKT" text
-- Geometric font (Eurostile/Bank Gothic)
-- On industrial background or solid color
-- Clean, readable at any size
+**Why This Works:**
+- Distinctive and unique (not generic)
+- Clever concept: D · P = "Dot Produkt" with literal dot product symbol
+- Readable at any size (bold geometric shapes)
+- Perfect for circular Instagram crop
+- Professional and memorable
+- Industrial/technical aesthetic (very EBM/Kraftwerk)
+- Blue accent ties to brand color palette
+- Mathematical precision (Der Prozessor) meets connection networks (Die Störung)
 
-**Option 2: Single Character Close-Up**
-Crop one character portrait to just face/shoulders:
-- Use Der_Prozessor_2_prod.png cropped tight
-- OR Die_Störung_1_prod.png cropped tight
-- Creates intrigue (who's the other person?)
-- More readable at small size
-
-**Option 3: Symbol/Mark**
-Create a simple geometric symbol:
-- Factory/assembly line icon
-- Dot product mathematical symbol (·)
-- Minimal geometric shape
-- Very 90s electronic music aesthetic
+**Technical Specs:**
+- Format: Square PNG
+- Colors: White, dark gray, cold blue accent
+- Style: Geometric, brutalist, minimal
+- Works at: 110x110px (Instagram) to 1024x1024px (high-res)
 
 ---
 
