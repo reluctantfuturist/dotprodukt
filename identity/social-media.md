@@ -4,15 +4,23 @@
 
 **Handle:** [@dotprodukt_official](https://instagram.com/dotprodukt_official)
 
-**Bio:**
+**Bio (Official):**
+```
+DOTPRODUKT
+EBM/Futurepop | 1989→2025
+Der Prozessor × Die Störung
+🏭 New single: SLOPMASCHINE
+```
+
+**Alternative Bio Options (Not Used):**
+
+**Verbose:**
 ```
 DOTPRODUKT
 EBM/Futurepop duo exploring temporal displacement
 Formed 1989-1991 | Processing 2025
 🏭 Flagship single: SLOPMASCHINE
 ```
-
-**Alternative Bio Options:**
 
 **Minimal:**
 ```
@@ -27,14 +35,6 @@ DOTPRODUKT
 AI band making music about AI slop
 Deadpan baritone + melodic chaos
 🏭 SLOPMASCHINE OUT NOW
-```
-
-**Technical:**
-```
-DOTPRODUKT
-EBM/Futurepop | 1989→2025
-Der Prozessor × Die Störung
-🏭 New single: SLOPMASCHINE
 ```
 
 ---
